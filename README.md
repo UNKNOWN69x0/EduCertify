@@ -23,19 +23,20 @@ To run this project locally, follow these steps.
 
 ### Prerequisites
 
-- A web browser with the [MetaMask](https://metamask.io/) extension installed.
+- [MetaMask](https://metamask.io/) extension installed on your browser.
 - A code editor (like VS Code).
+- Ganache
 
 ### Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/UNKNOWN69x0/EduCertify.git
     ```
 
 2.  **Deploy the Smart Contract:**
     - Open `DocumentVerification.sol` in an online IDE like [Remix](https://remix.ethereum.org/).
-    - Compile and deploy the contract to a test network (e.g., Sepolia).
+    - Compile and deploy the contract to a test network (e.g., Localhost connected with ganache).
     - Copy the deployed contract's address.
 
 3.  **Configure the Frontend:**
@@ -46,7 +47,7 @@ To run this project locally, follow these steps.
     ```
 
 4.  **Run the Application:**
-    - Simply open the `index.html` file in your web browser. The page will prompt you to connect your MetaMask wallet.
+    - Simply open the `index.html` file in your web browser or use live server extension if on VS Code. The page will prompt you to connect your MetaMask wallet.
 
 ## ⚙️ How It Works
 
