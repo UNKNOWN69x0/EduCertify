@@ -2,7 +2,7 @@ let web3;
 let contract;
 
 // Replace this with your Remix-deployed contract address
-const contractAddress = "INSERT_CONTRACT_ADDRESS";
+const contractAddress = "YOUR_DEPLOYED_CONTRACT_ADDRESS";
 
 window.addEventListener("load", async () => {
   if (window.ethereum) {
@@ -63,4 +63,5 @@ async function verifyDocument() {
     document.getElementById("status").innerText = `❌ Error: ${err.message}`;
   }
 }
+
 
