@@ -47,7 +47,7 @@ To run this project locally, follow these steps.
     ```
 
 4.  **Run the Application:**
-    - Simply open the `index.html` file in your web browser or use live server extension if on VS Code. The page will prompt you to connect your MetaMask wallet.
+    - Simply open the `index.html` file in your web browser using live server extension if on VS Code. The page will prompt you to connect your MetaMask wallet.
 
 ## ⚙️ How It Works
 
