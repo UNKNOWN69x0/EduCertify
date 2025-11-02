@@ -29,7 +29,7 @@ To run this project locally, follow these steps.
 
 ### Installation & Setup
 
-1.  **Clone the repository:**
+1.  **Download the files by clicking on Code > Download ZIP or Clone the repository:**
     ```bash
     git clone https://github.com/UNKNOWN69x0/EduCertify.git
     ```
